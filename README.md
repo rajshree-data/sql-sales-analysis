@@ -61,10 +61,3 @@ This project helped me practice SQL for business analysis, including data aggreg
 **Author:** Rajshree
 
 **Project Type:** SQL Business Case Study
-- Window functions
-
-## Key Insights
-*Key findings will be added after completing the analysis.*
-
-## Project Files
-SQL queries and analysis results will be added to this repository as the project develops.
